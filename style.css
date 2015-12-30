@@ -277,7 +277,7 @@ ul.navbar-nav {
 }
 
 .section-container-image-bg {
-	background-image: url(/Users/ylopez/Desktop/Happenstance/assets/img/backgrounds/free.jpeg);
+	background-image: url(https://cdn.rawgit.com/yoann792/happenstance/gh-pages/assets/img/backgrounds/free.jpeg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	opacity: 1;
