@@ -37,7 +37,7 @@ h3 {
 img { max-width: 100%; }
 
 .inner-bg {
-	background-image: url(/Users/ylopez/Desktop/Happenstance/assets/img/backgrounds/1.jpeg);
+	background-image: url(https://cdn.rawgit.com/yoann792/happenstance/gh-pages/assets/img/backgrounds/1.jpeg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
